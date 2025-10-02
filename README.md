@@ -30,7 +30,7 @@ Sou um desenvolvedor de software apaixonado por aprender e construir soluções 
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <a href="https://github.com/SEU-NOME-DE-USUARIO-AQUI">
+  <a href="https://github.com/brianpventura">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianpventura&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpventura&layout=compact&theme=dracula&hide_border=true" />
   </a>
