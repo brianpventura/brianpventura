@@ -1,26 +1,47 @@
-<h1 align="center">Hi there 👋</h1>  
+# Olá, eu sou o Brian 👋
 
-###
+Sou um desenvolvedor de software apaixonado por aprender e construir soluções criativas. Atualmente, estou focado em aprimorar minhas habilidades em Python e desenvolvimento de softwares / sistemas.
 
-<h2 align="center">Techs</h2>
+- 🔭 Atualmente estou trabalhando no meu portfólio de projetos em Python.
+- 🌱 Estou aprendendo mais sobre a linguagem Python e Banco de Dados.
+- 📫 Como me encontrar: [LinkedIn](https://br.linkedin.com/in/brian-ventura-68081a25)
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-</div>
+### 🛠️ Tecnologias e Ferramentas
 
-###
+- **Front-end**
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-<h2 align="center">Stats</h2>
+- **Back-end**
+  
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
-###
+- **Banco de Dados**
+  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianpventura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianpventura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- **Outras Ferramentas**
+  
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-###
+---
+
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <a href="https://github.com/SEU-NOME-DE-USUARIO-AQUI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianpventura&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpventura&layout=compact&theme=dracula&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+<p align="left">
+  <a href="https://br.linkedin.com/in/brian-ventura-68081a25" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:brianpventura.pro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
