@@ -41,6 +41,6 @@ Sou um desenvolvedor de software apaixonado por aprender e construir soluções 
 ### 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://br.linkedin.com/in/brian-ventura-68081a25" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/brian-ventura-68081a25a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:brianpventura.pro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
