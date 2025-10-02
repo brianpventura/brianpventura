@@ -24,9 +24,3 @@
 </div>
 
 ###
-
-<h2 align="center">My Activities</h2>
-
-###
-
-<div align="center">
