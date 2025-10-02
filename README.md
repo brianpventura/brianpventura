@@ -4,7 +4,6 @@ Sou um desenvolvedor de software apaixonado por aprender e construir soluções 
 
 - 🔭 Atualmente estou trabalhando no meu portfólio de projetos em Python.
 - 🌱 Estou aprendendo mais sobre a linguagem Python e Banco de Dados.
-- 📫 Como me encontrar: [LinkedIn](https://br.linkedin.com/in/brian-ventura-68081a25)
 
 ---
 
