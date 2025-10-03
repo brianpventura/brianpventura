@@ -11,7 +11,7 @@ Sou um desenvolvedor de software apaixonado por aprender e construir soluções 
 
 - **Front-end**
   
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,wordpress)](https://skillicons.dev)
 
 - **Back-end**
   
