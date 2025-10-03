@@ -19,7 +19,7 @@ Sou um desenvolvedor de software apaixonado por aprender e construir soluções 
 
 - **Banco de Dados**
   
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
 - **Outras Ferramentas**
   
