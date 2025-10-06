@@ -15,7 +15,7 @@ Sou um desenvolvedor de software apaixonado por aprender e construir soluções 
 
 - **Back-end**
   
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript)](https://skillicons.dev)
 
 - **Banco de Dados**
   
