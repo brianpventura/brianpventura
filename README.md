@@ -2,8 +2,9 @@
 
 Sou um desenvolvedor de software apaixonado por aprender e construir soluções criativas. Atualmente, estou focado em aprimorar minhas habilidades em Python e desenvolvimento de softwares / sistemas.
 
-- 🔭 Atualmente estou trabalhando no meu portfólio de projetos em Python.
-- 🌱 Estou aprendendo mais sobre a linguagem Python e Banco de Dados.
+- ☕ Tenho experiência em Java e Programação Orientada à Objetos.
+- 🔭 Atualmente estou trabalhando no meu portfólio.
+- 🐍 Estou aprendendo mais sobre a linguagem Python e Banco de Dados.
 
 ---
 
