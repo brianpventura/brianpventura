@@ -8,6 +8,13 @@ Sou um desenvolvedor de software apaixonado por aprender e construir soluções 
 
 ---
 
+## 🌐 Acesse Meu Site
+
+Para conhecer mais sobre mim e explorar meus projetos, visite meu site:  
+👉 [**Clique aqui**](https://brianpventura.github.io/portfolio_brian/)
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 - **Front-end**
