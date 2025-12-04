@@ -35,17 +35,6 @@ Para conhecer mais sobre mim e explorar meus projetos, visite meu site:
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <a href="https://github.com/brianpventura">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianpventura&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpventura&layout=compact&theme=dracula&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="left">
