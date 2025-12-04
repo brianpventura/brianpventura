@@ -1,17 +1,17 @@
 # Olá, eu sou o Brian 👋
 
-Sou um desenvolvedor de software apaixonado por aprender e construir soluções criativas. Atualmente, estou focado em aprimorar minhas habilidades em Python e desenvolvimento de softwares / sistemas.
+Sou um desenvolvedor de software dedicado a aprender e construir soluções criativas.
 
+- 🐍 Estou aprendendo mais sobre a linguagem Python e Banco de Dados (SQL).
 - ☕ Tenho experiência em Java e Programação Orientada à Objetos.
-- 🔭 Atualmente estou trabalhando no meu portfólio.
-- 🐍 Estou aprendendo mais sobre a linguagem Python e Banco de Dados.
+- ⏳ Freelancer Front-End no tempo livre.
 
 ---
 
 ## 🌐 Acesse Meu Site
 
 Para conhecer mais sobre mim e explorar meus projetos, visite meu site:  
-👉 [**Clique aqui**](https://brianpventura.github.io/portfolio_brian/)
+👉 [**Portfólio-Brian**](https://brianpventura.github.io/portfolio_brian/)
 
 ---
 
