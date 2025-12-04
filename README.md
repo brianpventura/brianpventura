@@ -11,7 +11,7 @@ Sou um desenvolvedor de software dedicado a aprender e construir soluções cria
 ## 🌐 Acesse Meu Site
 
 Para conhecer mais sobre mim e explorar meus projetos, visite meu site:  
-👉 [**Portfólio-Brian**](https://brianpventura.github.io/portfolio_brian/)
+👉 [**Portfólio-Brian**](https://brianpventura.github.io/)
 
 ---
 
