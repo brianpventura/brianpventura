@@ -27,7 +27,7 @@ Para conhecer mais sobre mim e explorar meus projetos, visite meu site:
 
 - **Banco de Dados**
   
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
 
 - **Outras Ferramentas**
   
