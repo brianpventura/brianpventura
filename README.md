@@ -31,7 +31,7 @@ Para conhecer mais sobre mim e explorar meus projetos, visite meu site:
 
 - **Outras Ferramentas**
   
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,docker)](https://skillicons.dev)
 
 ---
 
