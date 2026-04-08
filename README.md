@@ -1,10 +1,10 @@
 # Olá, eu sou o Brian 👋
 
-Sou um desenvolvedor de software dedicado a aprender e construir soluções criativas.
+Sou um desenvolvedor de software com foco em Análise de Dados, dedicado a aprender e construir soluções criativas.
 
-- 🐍 Estou aprendendo mais sobre a linguagem Python e Banco de Dados (SQL).
-- ☕ Tenho experiência em Java e Programação Orientada à Objetos.
-- ⏳ Freelancer Front-End no tempo livre.
+- 🐍 Estou aprendendo mais sobre a linguagem Python e Banco de Dados (SQL)
+- ☕ Tenho experiência em Java e Programação Orientada à Objetos
+- ⏳ Freelancer Front-End no tempo livre
 
 ---
 
