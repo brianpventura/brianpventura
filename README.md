@@ -8,9 +8,9 @@ Sou um desenvolvedor de software com foco em Análise de Dados, dedicado a apren
 
 ---
 
-## 🌐 Acesse Meu Site
+## 🌐 Acesse Portfólio
 
-Para conhecer mais sobre mim e explorar meus projetos, visite meu site:  
+Para conhecer mais sobre mim e explorar meus projetos, visite meu portfólio:  
 👉 [**Portfólio-Brian**](https://brianpventura.github.io/)
 
 ---
